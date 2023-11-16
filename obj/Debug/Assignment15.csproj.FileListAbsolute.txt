@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\bin\Debug\Assignment15.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\bin\Debug\Assignment15.exe
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\bin\Debug\Assignment15.pdb
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\obj\Debug\Assignment15.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\obj\Debug\Assignment15.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\obj\Debug\Assignment15.exe
+C:\Users\alish\Desktop\Mphasis\Day-9\Assignment15\Assignment15\obj\Debug\Assignment15.pdb
